@@ -1,6 +1,30 @@
+
 .sans_delight {
-    font-family: 'Comic Sans MS', cursive, sans-serif;
-    color: #ff69b4;
     position:absolute;
-    background-color: antiquewhite;
+    width: 100%;
+    height: 50px;
+    left:0px;
+    top:0px;
+    background-color: white;
+}
+
+.main{
+    position:absolute;
+    margin-top: 50px;
+    left:0px;
+    width: 100%;
+    height: auto;
+    background-color:black;
+}
+
+.racism {
+    color: black;
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 0px;
+}
+
+body {
+    color: white;
 }
